@@ -1,1 +1,121 @@
-# SF-Bar-review
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Jane San Francisco Bar Reviews</title>
+        <meta name="description" content="Information and reviews about various bars.">
+        <link rel="stylesheet" href="main.css">
+    </head>
+    <body>
+       <header>
+              
+            <img src="https://bayareaclubbers.files.wordpress.com/2013/10/night-view-san-francisco-california-united-states-768x1366.jpg" width="1598" height="900" style="width:1300px;height:350px;align=center">
+        
+        </header>
+        
+         
+       <h1 style="text-align: center"> San Francisco Bars Reviews</h1>
+    
+        <div align="center">
+        <ul>
+      <a href="https://www.thrillist.com/drink/san-francisco/42-san-francisco-bars-you-need-to-drink-in-before-you-die-bucket-list"><img src="http://i.giphy.com/TrUQ81kxgUQve.gif"></a> 
+
+        </ul>
+        </div>
+        <h2 style="text-align: center;background-color:#ffffcc">About my website</h2>
+      
+
+        <p style="font-size:20px;text-align:justify">
+            Welcome to Jane Hsieh San Francisco Bars Reviews website, this website is for group of people or single person who love and enjoy going to bar. It includes all the bars information that I visited at San Francisco during past and this year and my personal reviews such as their servies, prices,and food/drinks, atmosphere, etc on each of bar. The reason why I go to bar is that not only it is a place to enjoy various drinks, but also I get whole new experiences at each different bars by looking around their atmosphere of place(including lighting, group of people..) and service from various bartenders..etc Therefore, I want to offer and share some informayion that include my own thoughts and reviews that could help other peple who are looking for different bar.
+        </p>
+        
+        
+       <ol>
+		<h3 style="text-align: left;font-size:20px">List of Bars </h3>
+        <ul>
+            <h2>2016</h2>
+			<li style="font-size:20px">Press Club</li> 
+			<li style="font-size:20px">Resolute</li>
+			<li style="font-size:20px">Rye</li>
+            <li style="font-size:20px">Swig</li>
+            <li style="font-size:20px">MKT-Four Seasons Hotel Bar</li>
+            <li style="font-size:20px">Hopwater Distribution</li>
+           
+		</ul>
+        </ol>
+        
+        <h2 style="text-align: center;background-color:#ffffcc">Information</h2>
+        
+<table id="tb" border="1">
+           <thead>
+               <th colspan="3">
+                <p style="font-size:20px"> Name (location) and Personal Review</th>
+           </thead>
+           <tbody>
+               <tr>
+                   <td class="table" style=text-align:center> <p style="font-size:20px">Press Club (757 market street)  </td>
+                   <td><a href="http://pressclubsf.com/"><img src="http://cdn.wedding-spot.com/images/venues/115/The-Press-Club-Wedding-San-Francisco-CA-15-main.jpg" style ="width:450px;height:250px"></a></td>
+                  
+                   <td style="text-align: center"><h3 style="text-align: center">Personal Rate:4.0
+                       <a style="font-family:times" href="https://www.zagat.com/r/press-club-san-francisco"> <em>(Zagat Review)</em></a>
+                       </h3> <p style="font-size:20px"> Price: $$, Alone: Not recommonded, Service: Okey 
+                       Personal Reviews: Great Wine/beer secletions. Great place with group of people, playing DJ music and sometime get crowd atmosphere, but love the lighting and comfortable couch.</td>
+               </tr>
+               <tr>
+                   <td class="table" style=text-align:center><p style="font-size:20px">Resolute (680 Geary Street)</td>
+                   <td><a href="http://www.resolutesf.com/"><img src= "https://zerotendesign.com/wp-content/uploads/2016/01/Resolute-Panel-06.jpg" style="width:450px;height:250px"></a></td>
+                   
+                   <td style="text-align: center"><h3 style="text-align: center">Personal Rate:4.2 
+                       <a style="font-family:times" href="https://www.zagat.com/r/resolute-wine-bar-san-francisco"> <em>(Zagat Review)</em></a>
+                       </h3><p style="font-size:20px">Price: $$, Alone: highly recommonded, Service: Good 
+                        Personal Reviews: the selection of Wine is beyond amazing and also have great local beers. Great place for hang out with group of friends or even by yourself, cozy and relaxing atmosphere. Bartenders are very knowledge and friendly.</td>
+               </tr>
+               <tr>
+                   <td class="table" style=text-align:center><p style="font-size:20px">Rye (688 Geary Street)</td>
+                   <td><img src= "https://dirrrtyicecream.files.wordpress.com/2013/04/screen-shot-2014-02-26-at-8-11-00-pm.png" style="width:450px;height:250px"></td>
+                   
+                   <td style="text-align: center"><h3 style="text-align: center">Personal Rate:4.0
+                       <a style="font-family:times" href="https://www.zagat.com/n/rye-san-francisco"> <em>(Zagat Review)</em></a>
+                       </h3><p style="font-size:20px">Price: $, Alone: Not recommonded, Service: Good. Personal Reviews: Great Cocktails and they are unqiue and tasty. Cozy/causal cocktail bar that great for a small party or meeting with friends. Sometime on weekends get crowded and staffs are very knowledge and friendly.</td>
+            
+               </tr>
+                <tr>
+                   <td class="table" style="text-align:center;font-size:20px">Swig (561 Geary Street)</td>
+                    <td><a href="http://www.swigbar.com//"><img src= "http://diaryofasmartchick.com/wp-content/uploads/2013/05/DSC_6900.jpg" style="width:450px;height:250px"></a></td>
+                   
+                   <td style="text-align: center"><h3 style="text-align: center">Personal Rate:3.8
+                       <a style="font-family:times" href="https://www.zagat.com/r/swig-san-francisco"> <em>(Zagat Review)</em></a>
+                       </h3><p style="font-size:20px">Price: $, Alone: Not recommonded, Service: Okey. Personal Reviews: Great choice of cocktails, sometime get too crowded but have a tiny dance floor and play a live music or DJ mixs. Overall, fun atmosphere.</td>
+            
+               </tr>
+               <tr>
+                   <td class="table" style=text-align:center><p style="font-size:20px">MKT-Four Seasons Hotel Bar (757 market street)</td>
+                    <td><a href="http://www.fourseasons.com/content/fourseasons/en/properties/sanfrancisco/dining.html"><img src= "http://d23aogqa1gwht.cloudfront.net/content/dam/fourseasons_restaurants/restaurants-live/SFR/mkt/SFR_245_440x248.jpg" style="width:450px;height:250px"></a></td>
+                   
+                   <td style="text-align: center"><h3 style="text-align: center">Personal Rate:4.1
+                       <a style="font-family:times" href="https://www.zagat.com/r/mkt-restaurant-bar-san-francisco"> <em>(Zagat Review)</em></a>
+                       </h3><p style="font-size:20px">Price: $$$, Alone: still recommonded, Service: Good. Personal Reviews: Great choice of new cocktails from bartenders, and they are very knowledge and friendly The venue is classy and clean, but the settings are comfortable and it has a nice view from window tables.</td>
+               </tr>
+               <tr>
+                   <td class="table" style=text-align:center><p style="font-size:20px">Hopwater Distribution(850 Bush Street)</td>
+                   <td><a href="http://www.hopwaterdistribution.com/"><img src= "https://static.urbandaddy.com/uploads/assets/image/articles/standard/8f9f4e605e45e92a899d01b2341cd1bd262d8332.jpg" style="width:450px;height:250px"></a></td>
+                   
+                   <td style="text-align: center"><h3 style="text-align: center">Personal Rate:4.0
+                       <a style="font-family:times" href="https://www.zagat.com/r/hopwater-distribution-san-francisco"> <em>(Zagat Review)</em></a>
+                       </h3><p style="font-size:20px">Price: $, Alone: Not recommonded, Service: Good. Personal Reviews: Great beer selections (for seasons) and bar bites.Love the high ceilings and industrial feel, and the bartender was very friendly.</td>
+            
+               </tr>
+            
+          
+       </table>
+    <div>
+        
+  <iframe width="660" height="415" src="https://www.youtube.com/embed/SLeBvceHRWY" frameborder="0" allowfullscreen></iframe>
+        </div>
+        
+    </body>
+</html>
+       
+
